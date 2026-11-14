@@ -1,0 +1,38 @@
+{
+  "siteName": "lead-capitano-zlazmn",
+  "description": "Authentic Italian Kitchen & Bar in Batroun",
+  "lang": "en",
+  "colors": {
+    "primary": "#C62828",
+    "secondary": "#775a00",
+    "accent": "#4b6f60",
+    "background": "#FDFCF8",
+    "surface": "#FFFFFF",
+    "ink": "#111418",
+    "muted": "#6B7280",
+    "dark": "#2e3135"
+  },
+  "fonts": {
+    "heading": "Bodoni Moda",
+    "body": "Archivo"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {
+      "display": [
+        "Bodoni Moda",
+        "serif"
+      ],
+      "body": [
+        "Archivo",
+        "sans-serif"
+      ]
+    },
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}
